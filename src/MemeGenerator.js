@@ -9,7 +9,7 @@ class MemeGenerator extends React.Component {
       this.state = {
         topText: "",
         bottomText: "",
-        randomImg: "http://i.imgflip.com/1bij.jpg",
+        randomImg: "https://i.imgflip.com/26am.jpg",
         allMemeImgs: []
 
       }
